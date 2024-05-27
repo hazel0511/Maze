@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "D:/Unity/Homework1/Maze - \u8907\u88FD/Assets/test_nevigate_maze06_UI.unity"
+  isLoaded: 1
+  isActive: 1
