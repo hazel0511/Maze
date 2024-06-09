@@ -9,8 +9,12 @@ Unity 2017.4.3f1
 Intuitive Controls: update each frame 
 + GetKeyDown: Up/Down/Left/Right
 + OnCollisionEnter: hit by enemy or reach the destination
+ 
 Dynamic Enemies: Face a variety of enemies strategically placed throughout the maze. Each enemy type presents its own speed and requires different tactics to overcome.
-Camera
+
+Camera: 
++ Player Viewpoint: Maintain a camera view with fixed distance and angle that follows character.
++ Little Map: Utilize the mini-map to reveal the positions of both character and enemies, aiding in navigation and strategic planning.
 
 ## Demo:
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/kpWUjt8VJKw/0.jpg)](https://www.youtube.com/watch?v=kpWUjt8VJKw "Maze Demo")
